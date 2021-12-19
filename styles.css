@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-buttons {
+    text-align: center;
+    background-color: yellow;
+    padding: 35px;
+    position: sticky;
+}
+
+.navbar-buttons li {
+    display: inline;
+    font-size: 20px;
+    padding: 30px;
+    margin-right: 10px;
+}
+
+.navbar-buttons a {
+    color: black;
+    padding: 100px;
+    line-height: 20px;
+}
+
+#css-cheatsheet {
+    background-color: greenyellow;
+}
+
+#html-cheatsheet {
+    background-color: mediumpurple;
+}
+
+#main-page-link {
+    background-color: lightsalmon;
+}
